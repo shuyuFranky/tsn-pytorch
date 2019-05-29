@@ -101,3 +101,9 @@ ENV/
 .mypy_cache/
 
 .idea
+
+*.tar
+
+scripts/
+off_scripts/
+experiments.txt
